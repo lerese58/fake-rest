@@ -2,6 +2,7 @@
 	"success": true,
 	"content": [
                 {
+		    "id": 1,
                     "informationSystem": "Сапфир",
                     "forwardToConnectorDate": "2021-08-24T21:50:06.816",
                     "forwardToConnectorStatus": true,
@@ -12,6 +13,7 @@
                     "message": "Error in connector"
                 },
                 {
+		    "id": 2,
                     "informationSystem": "Сапфир1",
                     "forwardToConnectorDate": "2021-08-24T21:50:06.816",
                     "forwardToConnectorStatus": true,
@@ -22,6 +24,7 @@
                     "message": "Error in connector"
                 },
                 {
+		    "id": 3,
                     "informationSystem": "Сапфир2",
                     "forwardToConnectorDate": "2021-08-24T21:50:06.816",
                     "forwardToConnectorStatus": true,
@@ -32,6 +35,7 @@
                     "message": "Error in connector"
                 },
                 {
+		    "id": 4,
                     "informationSystem": "Сапфир3",
                     "forwardToConnectorDate": "2021-08-24T21:50:06.816",
                     "forwardToConnectorStatus": false,
@@ -42,6 +46,7 @@
                     "message": "Error in connector"
                 },
                 {
+		    "id": 5,
                     "informationSystem": "Сапфир4",
                     "forwardToConnectorDate": null,
                     "forwardToConnectorStatus": null,
