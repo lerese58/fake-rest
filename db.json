@@ -3,31 +3,41 @@
                 {
                     "informationSystem": "Сапфир",
                     "forwardToConnectorDate": "2021-08-24T21:50:06.816",
-                    "forwardToConnectorStatus": false,
-                    "forwardToEIPDate": null,
+                    "forwardToConnectorStatus": true,
+                    "forwardToEIPDate": "2021-08-24T21:50:06.816",
                     "forwardToEIPStatus": true,
                     "forwardToISDate": "2021-08-24T21:50:06.816",
+                    "forwardToISStatus": true,
+                    "message": "Error in connector"
+                },
+                {
+                    "informationSystem": "Сапфиhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhр1",
+                    "forwardToConnectorDate": "2021-08-24T21:50:06.816",
+                    "forwardToConnectorStatus": true,
+                    "forwardToEIPDate": "2021-08-24T21:50:06.816",
+                    "forwardToEIPStatus": true,
+                    "forwardToISDate": "2021-08-24T21:50:06.816",
+                    "forwardToISStatus": false,
+                    "message": "Error in connector"
+                },
+                {
+                    "informationSystem": "Сапфиhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhр1",
+                    "forwardToConnectorDate": "2021-08-24T21:50:06.816",
+                    "forwardToConnectorStatus": true,
+                    "forwardToEIPDate": "2021-08-24T21:50:06.816",
+                    "forwardToEIPStatus": false,
+                    "forwardToISDate": null,
                     "forwardToISStatus": null,
                     "message": "Error in connector"
                 },
                 {
                     "informationSystem": "Сапфиhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhр1",
                     "forwardToConnectorDate": "2021-08-24T21:50:06.816",
-                    "forwardToConnectorStatus": null,
-                    "forwardToEIPDate": "2021-08-24T21:50:06.816",
-                    "forwardToEIPStatus": true,
-                    "forwardToISDate": "2021-08-24T21:50:06.816",
-                    "forwardToISStatus": false,
-                    "message": "Error in connector"
-                },
-                {
-                    "informationSystem": "Сапфиhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhр1",
-                    "forwardToConnectorDate": "2021-08-24T21:50:06.816",
-                    "forwardToConnectorStatus": "null",
-                    "forwardToEIPDate": "2021-08-24T21:50:06.816",
-                    "forwardToEIPStatus": true,
-                    "forwardToISDate": "2021-08-24T21:50:06.816",
-                    "forwardToISStatus": false,
+                    "forwardToConnectorStatus": false,
+                    "forwardToEIPDate": null,
+                    "forwardToEIPStatus": null,
+                    "forwardToISDate": null,
+                    "forwardToISStatus": null,
                     "message": "Error in connector"
                 }
     ]
