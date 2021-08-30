@@ -1,5 +1,4 @@
 {
-	"success": true,
 	"content": [
                 {
 		    "id": 1,
@@ -56,6 +55,5 @@
                     "forwardToISStatus": null,
                     "message": null
                 }
-    ],
-	"errors": null
+    ]
 }
