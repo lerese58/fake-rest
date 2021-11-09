@@ -2,7 +2,7 @@
 	"content": [
                 {
 		    "id": 1,
-                    "informationSystem": "Сапфир",
+                    "informationSystem": "Сапфир0",
                     "forwardToConnectorDate": "2021-08-24T21:50:06.816",
                     "forwardToConnectorStatus": true,
                     "forwardToEIPDate": "2021-08-24T21:50:06.816",
